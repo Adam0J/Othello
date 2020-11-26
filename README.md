@@ -1,2 +1,2 @@
-# Programming
-Code for my programming projects.
+# Othello
+Python code for my Othello game. 
